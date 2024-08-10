@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zrobinson
-- 👀 I’m interested in developing Node.js, Golang, and Rust systems
+- 👀 I’m interested in developing Python, Node.js, Golang, and Rust systems
 - 🌱 I’m currently learning DDD and Hexagonal architecure
 - 📫 How to reach me at www.zrobinson.com
 
